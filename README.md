@@ -1,2 +1,2 @@
 # WebSeleniumTest
- Beymen selenium test
+ java selenium test
